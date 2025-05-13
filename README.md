@@ -37,7 +37,7 @@ Seed: 17
 
 ### Models Comparisons
 #### MNIST
-![plot](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/f2_scores.png)
+![plot](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/val_F2_scores.png)
 #### fashion-MNIST
-![plot](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/fashion-MNIST/f2_scores.png)
+![plot](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/fashion-MNIST/val_F2_scores.png)
 
