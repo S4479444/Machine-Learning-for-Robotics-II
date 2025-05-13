@@ -15,7 +15,10 @@ Seed: 17
 
 ### Dataset: MNIST
 #### Loss evaluation
-- Large model loss: [![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Large/large_loss.png)
-- Medium model loss: [![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Medium/medium_loss.png)
-- Small model loss: [![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Small/large_loss.png)
-
+- L model: [![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Large/large_loss.png)
+- M model: [![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Medium/medium_loss.png)
+- S model: [![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Small/large_loss.png)
+#### Metrics Evaluation
+- L model: [![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Large/large_metrics.png)
+- M model: [![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Medium/medium_metrics.png)
+- L model: [![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Small/small_metrics.png)
