@@ -1,7 +1,8 @@
 # Machine Learning for Robotics II
-Assignment of "Machine Learning for Robotics II" course, implementation of U-Net on the classification task over MNIST and fashion-MNIST datasets.
+Assignment of "Machine Learning for Robotics II" course, implementation of Residual Connections with Fully Connected layers, on the classification task over MNIST and fashion-MNIST datasets.
 
 ## Content
+The assignment consists in a possible implementation of Residual Connections, applied to a Deep Fully Connected Neural Network, using Pytorch.
 
 ## Installation & Datasets
 1) Download this repository on your device;
