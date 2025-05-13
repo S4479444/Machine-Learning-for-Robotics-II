@@ -10,4 +10,4 @@ Assignment of "Machine Learning for Robotics II" course, implementation of U-Net
 
 ## Results
 Seed: 17
-[![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Large/large_loss.png)
+[![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Large/large_loss.png?raw=true)
