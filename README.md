@@ -1,6 +1,8 @@
 # Machine Learning for Robotics II
 Assignment of "Machine Learning for Robotics II" course, implementation of U-Net on the classification task over MNIST and fashion-MNIST datasets.
 
+## Content
+
 ## Installation & Datasets
 1) Download this repository on your device;
 2) Download the datasets of your choice:
@@ -10,4 +12,9 @@ Assignment of "Machine Learning for Robotics II" course, implementation of U-Net
 
 ## Results
 Seed: 17
-[![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Large/large_loss.png?raw=true)
+
+### Dataset: MNIST
+- Large model loss: [![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Large/large_loss.png)
+- Medium model loss: [![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Medium/medium_loss.png)
+- Small model loss: [![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Small/large_loss.png)
+
