@@ -14,6 +14,7 @@ Assignment of "Machine Learning for Robotics II" course, implementation of U-Net
 Seed: 17
 
 ### Dataset: MNIST
+#### Loss evaluation
 - Large model loss: [![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Large/large_loss.png)
 - Medium model loss: [![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Medium/medium_loss.png)
 - Small model loss: [![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Small/large_loss.png)
