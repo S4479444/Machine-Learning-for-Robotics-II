@@ -10,4 +10,4 @@ Assignment of "Machine Learning for Robotics II" course, implementation of U-Net
 
 ## Results
 Seed: 17
-![plot](./imgs/large_loss.png)
+![plot](./imgs/MNIST/large_loss.png)
