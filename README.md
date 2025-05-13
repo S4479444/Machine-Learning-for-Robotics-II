@@ -15,10 +15,20 @@ Seed: 17
 
 ### Dataset: MNIST
 #### Loss evaluation
-- L model: [![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Large/large_loss.png)
-- M model: [![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Medium/medium_loss.png)
-- S model: [![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Small/large_loss.png)
+- L model: ![plot](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Large/large_loss.png)
+- M model: [![plot](./imgs/MNIST/medium_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Medium/medium_loss.png)
+- S model: [![plot](./imgs/MNIST/small_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Small/large_loss.png)
 #### Metrics Evaluation
-- L model: [![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Large/large_metrics.png)
-- M model: [![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Medium/medium_metrics.png)
-- L model: [![plot](./imgs/MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Small/small_metrics.png)
+- L model: [![plot](./imgs/MNIST/large_metrics.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Large/large_metrics.png)
+- M model: [![plot](./imgs/MNIST/medium_metrics.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Medium/medium_metrics.png)
+- L model: [![plot](./imgs/MNIST/small_metrics.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Small/small_metrics.png)
+
+### Dataset: fashion-MNIST
+#### Loss evaluation
+- L model: [![plot](./imgs/fashion-MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Large/large_loss.png)
+- M model: [![plot](./imgs/fahion-MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Medium/medium_loss.png)
+- S model: [![plot](./imgs/fashion-MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Small/large_loss.png)
+#### Metrics Evaluation
+- L model: [![plot](./imgs/fashion-MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Large/large_metrics.png)
+- M model: [![plot](./imgs/fashion-MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Medium/medium_metrics.png)
+- L model: [![plot](./imgs/fashion-MNIST/large_loss.png)](https://github.com/S4479444/Machine-Learning-for-Robotics-II/blob/main/imgs/MNIST/Small/small_metrics.png)
